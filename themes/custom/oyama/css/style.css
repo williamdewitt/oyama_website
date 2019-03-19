@@ -1,0 +1,13 @@
+/**
+ * Place your custom styles here.
+ */
+.navbar-nav {
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-top: 35px; 
+}
+#navbar {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+}

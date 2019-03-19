@@ -1,0 +1,13 @@
+global-styling:
+  css:
+    theme:
+      css/style.css: {}
+      css/owlcarousel/owl.carousel.css: {}
+      css/owlcarousel/owl.theme.default.css: {}
+
+global-scripts:
+  js:
+    js/owlcarousel/owl.carousel.min.js: {}
+    js/script.js: {}
+  dependencies:
+    - core/jquery
